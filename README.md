@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=💻%20Kauan%20Batista&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web%20|%20Criatividade%20%2B%20Código&descSize=20&descAlignY=55)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=💻%20Kauan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web%20|%20Criatividade%20%2B%20Código&descSize=20&descAlignY=55)
 
 # 👋 Olá, eu sou o Kauan Batista de Sousa!
 
