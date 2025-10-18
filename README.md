@@ -1,21 +1,21 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=💻%20Kauan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web%20|%20Criatividade%20%2B%20Código&descSize=20&descAlignY=55)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=💻%20Kauan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20|%20Creativity%20%2B%20Code&descSize=20&descAlignY=55)
 
-# 👋 Olá, eu sou o Kauan Batista de Sousa!
+# 👋 Hello, I'm Kauan Batista de Sousa!
 
-💡 Desenvolvedor apaixonado por tecnologia, sempre aprendendo e criando projetos para resolver problemas de forma criativa e sucinta.
-
----
-
-## 🚀 Sobre mim
-- 💻 Atualmente estudando **Desenvolvimento Web e Programação**
-- 🌱 Aprendendo mais sobre **JavaScript, HTML, CSS e frameworks modernos**
-- 🎯 Foco em **criar soluções práticas e inovadoras**
-- 📍 Localização: Brasil
+💡 A developer passionate about technology, always learning and creating projects to solve problems in a creative and concise way.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-💻 Tecnologias que uso ou estudo:
+## 🚀 About Me
+- 💻 Currently studying **Web Development and Programming**
+- 🌱 Learning more about **JavaScript, HTML, CSS, and modern frameworks**
+- 🎯 Focused on **creating practical and innovative solutions**
+- 📍 Location: Brazil
+
+---
+
+## 🛠️ Technologies & Tools
+💻 Technologies I use or study:
 
 ![HTML5](https://img.shields.io/badge/HTML5-ff5722?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2196f3?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,22 +26,21 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=2Kauan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=2Kauan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2Kauan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2Kauan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 ---
 
-## 🔥 Atividade Recente
+## 🔥 Recent Activity
 ![GitHub Streak](https://streak-stats.demolab.com?user=2Kauan&theme=tokyonight&hide_border=true&background=0d1117)
 
 ---
 
-## 🌎 Onde me encontrar
+## 🌎 Where to Find Me
 [![GitHub](https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2Kauan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batistakauanzin2@gmail.com)
 
 ---
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer)
